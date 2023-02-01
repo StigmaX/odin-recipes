@@ -1,2 +1,3 @@
 # odin-recipes
-odin project tutorial
+
+Assorted Recipes
